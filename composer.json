@@ -1,5 +1,5 @@
 {
-  "name": "nettrine/migrations",
+  "name": "ijvo/nettrine-migrations",
   "description": "Doctrine Migrations for Nette Framework",
   "keywords": ["nette", "doctrine", "migrations"],
   "type": "library",
